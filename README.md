@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Toto-RR.Toto-RR&left_color=darkgreen&right_color=darkred"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Toto-RR.Toto-RR&left_color=black&right_color=darkred"  />
 </div>
 
 ###
