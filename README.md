@@ -29,7 +29,8 @@
 
 ###
 
-<p align="left">I'm Toni Romanos from Spain<br><br>- 🔭 I am studying video game development.<br>- 📚 I am currently learning everything about the world of video games.<br>- ⚡ In my free time I like to play video games and do sports.</p>
+<p align="left">I am Toni Romanos, from Barcelona, Spain. I'm currently a student of the Video Game Design and Development Degree at the Centre de la Imatge i Tecnologia Multimedia (CITM).
+I'm interested in the world of programming in general, videogames, web development, app development, etc.<br><br>- 🔭 I am studying video game development.<br>- 📚 I am currently learning everything about the world of video games.<br>- ⚡ In my free time I like to play video games and do sports.</p>
 
 ###
 
