@@ -82,9 +82,9 @@ I'm interested in the world of programming in general, videogames, web developme
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Toto-RR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Toto-RR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Toto-RR&locale=en&mode=weekly&theme=vision-friendly-dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats-ten-wine.vercel.app/api?username=Toto-RR&count_private=true&theme=gotham&show_icons=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toto-RR&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Toto-RR&theme=gotham&hide_border=false)https://github-readme-streak-stats.herokuapp.com/?user=Toto-RR&theme=vision-friendly-dark&hide_border=false" height="200" alt="streak graph"  />
 </div>
 
 ###
