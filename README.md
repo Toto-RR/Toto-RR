@@ -1,87 +1,93 @@
-
-###
-
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="25" alt="instagram logo"  />
+
+# ¡Hola! Soy Toni 👋
+
+### Game & Full-Stack Developer — Unity/C# · React · Node.js
+
 </div>
 
-###
+<p align="center">
+  <a href="https://www.linkedin.com/in/toniromanos/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:toni.romanos.ruiz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.toniromanos.dev"><img src="https://img.shields.io/badge/Portfolio-1B3A6B?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_toto6_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Toto-RR.Toto-RR&left_color=black&right_color=darkred"  />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Toto-RR&label=Visitas&color=1B3A6B&style=flat" />
+</p>
 
-###
+---
 
-<h1 align="center">Hey there!👋</h1>
+## 🎓 Sobre mí
 
-###
+Graduado en **Diseño y Desarrollo de Videojuegos** (CITM — Centre de la Imatge i Tecnologia Multimèdia), Barcelona.
 
-<h3 align="left">👩‍💻  About Me</h3>
+Desarrollador con dos caras que se complementan: por un lado **gameplay programming** en Unity y C#, sistemas interactivos y prototipado con hardware; por otro, **desarrollo full-stack** con React, Node.js y bases de datos SQL, construyendo aplicaciones web completas de principio a fin.
 
-###
+- 🚀 Buscando oportunidades como **Game Developer**, **Full-Stack Developer** o roles híbridos
+- 🌐 Desarrollo de plataformas web completas: frontend, backend, API y base de datos
+- 🕹️ Proyectos personales centrados en gameplay y sistemas interactivos
+- 🔧 Integración de hardware y prototipado con Arduino y Fusion 360
 
-<p align="left">I am Toni Romanos, from Barcelona, Spain. I'm currently a student of the Video Game Design and Development Degree at the Centre de la Imatge i Tecnologia Multimedia (CITM).
-I'm interested in the world of programming in general, videogames, web development, app development, etc.<br><br>- 🔭 I am studying video game development.<br>- 📚 I am currently learning everything about the world of video games.<br>- ⚡ In my free time I like to play video games and do sports.</p>
+## 🧩 Proyectos destacados
 
-###
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [**Stock Management Platform**](https://www.toniromanos.dev/#experience) | Plataforma web full-stack para trazabilidad de stock, solicitudes y flujos internos de empresa. Frontend, backend, API y base de datos de principio a fin. | React · Node.js · PostgreSQL |
+| [**Joined! NeoParty**](https://github.com/Toto-RR/Joined-NeoParty) | Party game en Unity con controladores dedicados diseñados en Fusion 360 y programados con Arduino. Expuesto en el SAGA 2025. | Unity · C# · Arduino |
+| [**Alien: Extraction**](https://github.com/Clapcom-Studios/Alien-Extraction) | Videojuego con motor propio (Ymir Engine) programado en C++. Jugado y valorado por personal de Larian Studios. | C++ · Motor propio |
 
-<h3 align="left">🛠 Language and tools</h3>
+📁 Más proyectos en mi [portfolio](https://www.toniromanos.dev)
 
-###
+## 🛠️ Lenguajes y herramientas
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="40" alt="maya logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-</div>
+**Web & Apps**
+<br>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" /></a>
+<a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
 
-###
+**Engine & Gameplay**
+<br>
+<a href="https://unity.com/" target="_blank"><img src="https://skillicons.dev/icons?i=unity" /></a>
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img src="https://skillicons.dev/icons?i=cs" /></a>
+<a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" /></a>
+<a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://skillicons.dev/icons?i=c" /></a>
 
-<h3 align="left">🔥   My Stats :</h3>
+**3D, Diseño & Hardware**
+<br>
+<a href="https://www.blender.org/" target="_blank"><img src="https://skillicons.dev/icons?i=blender" /></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" /></a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://skillicons.dev/icons?i=ps" /></a>
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://skillicons.dev/icons?i=ai" /></a>
+<a href="https://www.arduino.cc/" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" /></a>
 
-###
+**Herramientas**
+<br>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
+<a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=visualstudio" /></a>
 
-<div align="center">
-  <img src="https://github-readme-stats-ten-wine.vercel.app/api?username=Toto-RR&count_private=true&theme=gotham&show_icons=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toto-RR&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Toto-RR&theme=gotham&hide_border=false)https://github-readme-streak-stats.herokuapp.com/?user=Toto-RR&theme=vision-friendly-dark&hide_border=false" height="200" alt="streak graph"  />
-</div>
+**CI/CD & Deploy**
+<br>
+<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" /></a>
+<a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" /></a>
+<a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" /></a>
+<a href="https://www.cloudflare.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cloudflare" /></a>
 
-###
+## 🔥 Mis stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Toto-RR&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Toto-RR&theme=radical&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toto-RR&layout=compact&theme=radical&hide_border=true" height="165" />
+</p>
