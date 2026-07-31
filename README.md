@@ -36,7 +36,7 @@ Desarrollador con dos caras que se complementan: por un lado **gameplay programm
 |---|---|---|
 | [**Stock Management Platform**](https://www.toniromanos.dev/#experience) | Plataforma web full-stack para trazabilidad de stock, solicitudes y flujos internos de empresa. Frontend, backend, API y base de datos de principio a fin. | React · Node.js · PostgreSQL |
 | [**Joined! NeoParty**](https://github.com/Toto-RR/Joined-NeoParty) | Party game en Unity con controladores dedicados diseñados en Fusion 360 y programados con Arduino. Expuesto en el SAGA 2025. | Unity · C# · Arduino |
-| [**Alien: Extraction**](https://github.com/Clapcom-Studios/Alien-Extraction) | Videojuego con motor propio (Ymir Engine) programado en C++. Jugado y valorado por personal de Larian Studios. | C++ · Motor propio |
+| [**Alien: Extraction**](https://github.com/Clapcom-Studios/Alien-Extraction) | Videojuego con motor propio [(Ymir Engine)](https://github.com/francesctr4/Ymir-Engine) programado en C++. Jugado y valorado por personal de Larian Studios. | C++ · Motor propio |
 
 📁 Más proyectos en mi [portfolio](https://www.toniromanos.dev)
 
