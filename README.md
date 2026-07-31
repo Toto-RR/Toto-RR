@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/toniromanos/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:toni.romanos.ruiz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.toniromanos.dev"><img src="https://img.shields.io/badge/Portfolio-1B3A6B?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.instagram.com/_toto6_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://toto-rr.itch.io"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -23,11 +23,11 @@
 
 Graduado en **Diseño y Desarrollo de Videojuegos** (CITM — Centre de la Imatge i Tecnologia Multimèdia), Barcelona.
 
-Desarrollador con dos caras que se complementan: por un lado **gameplay programming** en Unity y C#, sistemas interactivos y prototipado con hardware; por otro, **desarrollo full-stack** con React, Node.js y bases de datos SQL, construyendo aplicaciones web completas de principio a fin.
+Desarrollador con dos caras que se complementan: por un lado **desarrollo de videojuegos** en Unity y C#, sistemas interactivos y prototipado con hardware; por otro, **desarrollo full-stack** con React, Node.js y bases de datos SQL, construyendo aplicaciones web completas de principio a fin.
 
-- 🚀 Buscando oportunidades como **Game Developer**, **Full-Stack Developer** o roles híbridos
+- 🚀 Buscando oportunidades como **Game Developer** o **Full-Stack Developer**
 - 🌐 Desarrollo de plataformas web completas: frontend, backend, API y base de datos
-- 🕹️ Proyectos personales centrados en gameplay y sistemas interactivos
+- 🕹️ Proyectos personales centrados en videojuegos y sistemas interactivos
 - 🔧 Integración de hardware y prototipado con Arduino y Fusion 360
 
 ## 🧩 Proyectos destacados
